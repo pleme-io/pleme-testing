@@ -7,6 +7,8 @@ description = "Testing utilities library for Pleme platform - test fixtures, tes
 repository = "https://github.com/pleme-io/pleme-testing"
 homepage = "https://github.com/pleme-io/pleme-testing"
 readme = "README.md"
+keywords = ["testing", "fixtures", "testcontainers", "integration-tests", "rust"]
+categories = ["development-tools::testing"]
 
 [dependencies]
 rstest = "0.18"
